@@ -4,6 +4,5 @@ public interface TestInterface {
 	 //定一个方法
      void m();
      void m2();
-     void m3();
-     void m4();
+     void m3(); 
 }
